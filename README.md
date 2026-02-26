@@ -75,6 +75,3 @@ Create a MySQL database called `pickup_system`, run the schema script, done.
 This also happened to be my final project for a coding bootcamp, but it started because I was genuinely annoyed at waiting in a car line to pick up my son. Sometimes the best motivation is just being really tired of a bad user experience.
 
 The actual school version is a bit different (they had their own requirements), but the core concepts are here.
-
-- Mario Callaway 
-Professional developer who also happens to be a frustrated parent
