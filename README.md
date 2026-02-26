@@ -76,7 +76,5 @@ This also happened to be my final project for a coding bootcamp, but it started 
 
 The actual school version is a bit different (they had their own requirements), but the core concepts are here.
 
--
-
-Mario Callaway 
+- Mario Callaway 
 Professional developer who also happens to be a frustrated parent
